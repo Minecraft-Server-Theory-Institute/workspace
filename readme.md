@@ -1,1 +1,1 @@
-Minecraft server theory.
+The official MSTI repository for all articles and theories
